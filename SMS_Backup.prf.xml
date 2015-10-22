@@ -1,0 +1,29 @@
+<TaskerData sr="" dvi="1" tv="4.7u3m">
+	<Profile sr="prof4" ve="2">
+		<cdate>1445461890520</cdate>
+		<cldm>7200</cldm>
+		<clp>true</clp>
+		<edate>1445464718827</edate>
+		<id>4</id>
+		<mid0>10</mid0>
+		<nme>SMS Backup</nme>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<Int sr="arg0" val="1"/>
+		</State>
+		<State sr="con1" ve="2">
+			<code>160</code>
+			<Str sr="arg0" ve="3">KZone*</Str>
+			<Str sr="arg1" ve="3"/>
+			<Str sr="arg2" ve="3"/>
+		</State>
+	</Profile>
+	<Task sr="task10">
+		<cdate>1445462292534</cdate>
+		<edate>1445463459452</edate>
+		<id>10</id>
+		<Action sr="act0" ve="7">
+			<code>553</code>
+		</Action>
+	</Task>
+</TaskerData>
